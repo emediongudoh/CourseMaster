@@ -1,0 +1,42 @@
+[
+{
+    "model": "courses.topic",
+    "pk": 1,
+    "fields": {
+        "title": "Django",
+        "slug": "django"
+    }
+},
+{
+    "model": "courses.topic",
+    "pk": 2,
+    "fields": {
+        "title": "Flask",
+        "slug": "flask"
+    }
+},
+{
+    "model": "courses.topic",
+    "pk": 3,
+    "fields": {
+        "title": "JavaScript",
+        "slug": "javascript"
+    }
+},
+{
+    "model": "courses.topic",
+    "pk": 4,
+    "fields": {
+        "title": "Python",
+        "slug": "python"
+    }
+},
+{
+    "model": "courses.topic",
+    "pk": 5,
+    "fields": {
+        "title": "React",
+        "slug": "react"
+    }
+}
+]
